@@ -1,2 +1,2 @@
 # BreakoutHardcore
-Learning JScript by making a game
+Learning JavaScript by making a game
